@@ -37,5 +37,5 @@ body {
     display:block;
     border: 1px solid #eee;
     padding: 8px 24px;
-    align-items:center;
+    margin: 0 auto;
   }
