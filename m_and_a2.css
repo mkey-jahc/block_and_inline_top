@@ -8,7 +8,7 @@ body {
   .card {
     width: 400px;
     background: #fff;
-    margin: 8px auto;
+    margin: 16px auto;
   }
   
   .title {
@@ -28,6 +28,7 @@ body {
     background: #e3f4ff;
     padding: 8px;
     margin: 8px;
+    align-items: center;
     
   }
   
@@ -36,4 +37,5 @@ body {
     display:block;
     border: 1px solid #eee;
     padding: 8px 24px;
+    align-items:center;
   }
